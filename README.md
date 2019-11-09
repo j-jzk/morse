@@ -14,4 +14,4 @@ You will also need to install the hxcppp library: ``haxelib install hxcpp``
 
 Compile using ``build.sh``
 
-The resultin file will be in bin/Morse
+The resulting file will be in bin/Morse
